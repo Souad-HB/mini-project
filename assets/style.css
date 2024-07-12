@@ -1,0 +1,58 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    background-color: white;
+}
+header, footer{
+    width: 100%;
+    height: 40px;
+    margin: 0px;
+    background-color: green;
+    color: white;
+    line-height: 2.5;
+}
+
+header {
+    text-align: right;
+    border-bottom: 5px solid burlywood
+}
+nav{
+    margin-right: 10px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.center {
+    text-align: center;
+}
+
+
+h1, h2 {
+    color: rgb(108, 22, 22);
+}
+img{
+    height: 200px;
+}
+label {
+    display: inline;
+}
+#contactme {
+    background-color: burlywood;
+    padding-top: 5px;
+}
+#border {
+    border: 5px solid rgb(108, 22, 22);
+    border-width: 50% thin;
+    padding: 10px;
+    
+}
+input, label {
+    margin: 0.1em 0;
+    
+}
+footer{
+    text-align: center; 
+    border-bottom: 5px solid rgb(108, 22, 22)
+}
